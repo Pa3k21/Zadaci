@@ -1,0 +1,1 @@
+echo 'systemct1 suspend' | at now + 60 minutes
